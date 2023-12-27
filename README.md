@@ -1,4 +1,5 @@
-# Uni4Eye_pp
+# Uni4Eye_++
+This is the implementation of Uni4Eye++.
 
 ## Requirments
 + python >= 3.6
