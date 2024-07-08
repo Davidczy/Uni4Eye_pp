@@ -14,7 +14,7 @@ The pre-trained model weights can be downloaded [here](https://drive.google.com/
 
 ## Usage
 ```
-python main_pretrain.py
+python main_pretrain_partial23D.py
 ```
 
 ## Notice
