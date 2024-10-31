@@ -1,5 +1,5 @@
 # Uni4Eye_++
-This is the implementation of Uni4Eye++.
+This is the implementation of [Uni4Eye++](https://pubmed.ncbi.nlm.nih.gov/38954581/).
 
 ## Pre-trained model
 The pre-trained model weights can be downloaded [here](https://drive.google.com/file/d/12Cw-OpyBcFbs2zcT368cG6DJPVKVRMEa/view?usp=sharing).
